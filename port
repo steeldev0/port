@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo THIS SCRIPT WAS MADE BY @steeldev ON DISCORD, discord.gg/freevps <----------
+
 PORTS_FILE="/ports.info.txt"
 
 add_port() {
